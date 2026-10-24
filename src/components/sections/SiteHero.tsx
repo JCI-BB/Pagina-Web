@@ -7,7 +7,6 @@ export function SiteHero() {
     <section className="hero">
       <Container className="hero__inner">
         <div className="hero__copy">
-          <p className="eyebrow">JCI Bahía Blanca · Argentina</p>
           <h1>Desarrollando líderes para un mundo cambiante</h1>
           <p className="hero__description">
             Oportunidades para desarrollar liderazgo, impulsar proyectos,
